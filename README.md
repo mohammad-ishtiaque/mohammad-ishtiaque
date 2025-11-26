@@ -14,7 +14,14 @@ I'm a passionate Software Engineer with a strong background in JavaScript, Node.
 ## 🚀 Top Skills & Technologies
 
 - **JavaScript**
+- **Python**
+- **C++**
 - **Node.js**
+- **Express js**
+- **FastApi**
+- **LangChain**
+- **RAG**
+- **LLM**
 - **Machine Learning**
 
 ---
