@@ -35,5 +35,6 @@ I'm an avid football enthusiast—whether it's playing on the field or watching 
 ## 🌐 Social Links
 
 - [LinkedIn](https://www.linkedin.com/in/ishtiaque9833/)
+- [portfolio](https://arif-ishtiaq-portfolio.vercel.app/)
 
 ---
