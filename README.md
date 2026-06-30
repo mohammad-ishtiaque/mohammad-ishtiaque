@@ -2,9 +2,9 @@
 <h3 align="center">Backend & AI Engineer — Node.js | LLM Integration | RAG Pipelines</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ishtiaque9833/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://arif-ishtiaq-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:kazimdarifishtiaque@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -35,10 +35,8 @@ Currently open to **remote roles** with international teams.
 | [**Medical-AI-Receptionist-Calling-Agent**](https://github.com/mohammad-ishtiaque/Medical-AI-Receptionist-Calling-Agent) | AI voice/calling agent for medical clinic reception — automated intake & scheduling | Python, LLM |
 | [**cv-tailor-ai**](https://github.com/mohammad-ishtiaque/cv-tailor-ai) | AI tool that tailors CVs/resumes to specific job descriptions | Python |
 | [**many-stack-backend**](https://github.com/mohammad-ishtiaque/many-stack-backend) | Production-grade backend architecture with multi-service support | JavaScript, Node.js |
-| [**grambix**](https://github.com/mohammad-ishtiaque/grambix) | _Add one-line description_ | JavaScript |
-| [**mathbook**](https://github.com/mohammad-ishtiaque/mathbook) | _Add one-line description_ | JavaScript |
-
-> 💡 Tip: Add a 2–3 line "Problem → Solution → Result" to each repo's own README — recruiters click in.
+| [**grambix**](https://github.com/mohammad-ishtiaque/grambix) | A digital libarary with audio and in-app book reading solution. | JavaScript |
+| [**mathbook**](https://github.com/mohammad-ishtiaque/mathbook) | Comprehensive students math practice solution for school and batch students | JavaScript |
 
 ---
 
@@ -51,20 +49,20 @@ I'm an avid football enthusiast — whether playing on the field or watching the
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-ishtiaque&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mohammad-ishtiaque&show_icons=true&theme=dark&hide_border=true" height="165"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-ishtiaque&theme=dark&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ishtiaque&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
+</p> -->
 
 ---
 
 ### 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-- 🌐 [Portfolio](YOUR-PORTFOLIO-URL)
-- 📧 YOUR-EMAIL
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishtiaque9833/)
+- 🌐 [Portfolio](https://arif-ishtiaq-portfolio.vercel.app/)
+- 📧 kazimdarifishtiaque@gmail.com
 
 <p align="center"><i>Open to remote opportunities — Backend / AI Engineering roles</i></p>
